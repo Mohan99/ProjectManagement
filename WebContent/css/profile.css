@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+.profile-header-img {
+    padding: 5px;
+    float:left;
+}
+
+.profile-header-img > img.img-circle {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #51D2B7;
+}
+.profile-header-img1 {
+    padding: 5px;
+    
+}
+
+.profile-header-img1 > img.img-circle {
+    width: 80px;
+    height: 80px;
+    border: 1px solid #51D2B7;
+}
+
+
+/**
+ * Ranking component
+ */
+.rank-label-container {
+    margin-top: -10px;
+    /* z-index: 1000; */
+    text-align: center;
+}
+
+.label.label-default.rank-label {
+    background-color: darkcyan;
+    padding: 5px 10px 5px 10px;
+    border-radius: 27px;
+}

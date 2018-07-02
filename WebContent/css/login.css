@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+		
+		
+		#div2{
+
+		padding:20px;
+/* Any number of shadows, separated by commas */
+box-shadow: 3px 3px 10px 10px grey;
+border-top-right-radius:35px;
+
+border-bottom-right-radius:35px;
+
+border-bottom-left-radius:35px;
+}
+		
+		
+		#div1{
+		
+			margin-top: 7%;/* 
+			background-image: url("images/color_eyes-wallpaper-1366x768.jpg"); */
+		}
